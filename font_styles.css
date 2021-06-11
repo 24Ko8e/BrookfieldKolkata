@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'SangBleuKingdom-Regular-WebS';
+    src: url('SangBleuKingdom-Regular-WebS.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'SangBleuKingdom-Regular-WebXL';
+    src: url('SangBleuKingdom-Regular-WebXL.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Hanken Design Co. - Cerebri Sans Regular';
+    src: url('Hanken Design Co. - Cerebri Sans Regular.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans-Regular';
+    src: url('OpenSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+.fontbybrookfieldS {	font-family: "SangBleuKingdom-Regular-WebS";	font-size: 14px;}
+.fontbybrookfieldXL {	font-family: "SangBleuKingdom-Regular-WebXL";	font-size: 14px;}
+.fontbybrookfieldCerebriSans {	font-family: "Hanken Design Co. - Cerebri Sans Regular";	font-size: 14px;}
+.fontbybrookfieldOpenSans {	font-family: "OpenSans-Regular";	font-size: 14px;}
